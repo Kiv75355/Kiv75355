@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Ирина! 😊</h1>
 
-<!--
-**Kiv75355/Kiv75355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="350" align="right">
+  
+Я аналитик данных с более чем 3-летним коммерческим опытом. Работаю с SQL, Python и BI-инструментами, интересуюсь продуктовой аналитикой, машинным обучением и AI.
 
-Here are some ideas to get you started:
+В этом репозитории собраны мои учебные и pet-проекты по:
+- анализу данных и BI;
+- A/B-тестированию;
+- машинному обучению;
+- AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В папке каждого проекта есть README с описанием задачи, используемого стека и полученных результатов.
+
+📫 Как со мной связаться: 
+ - 📧 i5355@ya.ru
+ - 💬 [Telegram](https://t.me/@irik5355)
+</p>
