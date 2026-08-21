@@ -24,4 +24,4 @@
 |Портфолио AI-агентов на n8n [github](https://github.com/Kiv75355/Krivoschekova/tree/main/n8n_workflow) | Три workflow-автоматизации: RAG-консультант сотрудников по корпоративной документации, Telegram-бот администратор салона красоты с записью в Google Calendar (текст + голос), автогенерация ответов на отзывы с классификацией тональности | n8n, OpenAI, Pinecone, Whisper, Telegram Bot API, Google Calendar API, Google Sheets |
 
 
-![](https://komarev.com/ghpvc/?username=ВАШ_НИКНЕЙМ)
+![](https://komarev.com/ghpvc/?username=Kiv75355&color=green&style=plastic)
